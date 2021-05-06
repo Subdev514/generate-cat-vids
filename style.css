@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+#grad {
+  background-image: linear-gradient(to bottom right, white, pink, yellow);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+#image-box {
+  border: black solid;
+  margin: auto;
+  height: 500px;
+  width: 700px;
+  padding: 25px;
+}
+
+#generate-cat {
+  background-color: rgb(174, 253, 174);
+  height: 50px;
+  width: 100px;
+  margin-top: 1%;
+  margin-left: 47%;
+}
+
+#img {
+  object-fit: cover;
+  height: 500px;
+  width: 700px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
